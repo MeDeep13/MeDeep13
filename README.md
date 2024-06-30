@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kuldeep Saharan || @MeDeep13
+- 👋 Hi, I’m Kuldeep Saharan
 - 👀 I’m interested in problem-solving and web development
 - 🌱 I’m currently learning DSA and Web D
 - 💞️ I’m looking to collaborate on ...
