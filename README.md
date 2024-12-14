@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Kuldeep Saharan
-- 👀 I’m interested in problem-solving and web development
+- 👀 I’m interested in problem-solving, web development and data
 - 🌱 I’m currently learning DSA and Web D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on X(https://x.com/MeDeep_13)
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
