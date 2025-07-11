@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Kuldeep Saharan
-- 👀 I’m interested in problem-solving, backend development, and data analytics 
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web-D projects
+- 👀 I’m interested in DSA, data analytics, and backend development
+- 🌱 I’m currently learning things and working on my personal projects.
+- 💞️ I’m looking to collaborate on something meaningful, something impactful, something out of the box that solves real-world problems.
 - 📫 Reach me on X(https://x.com/MeDeep_13)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Yet to find
+- ⚡ Fun fact: Calm and composed under pressurising situations.
 
 <!---
 MeDeep13/MeDeep13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
