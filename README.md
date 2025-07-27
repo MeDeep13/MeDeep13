@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kuldeep Saharan
-- 👀 I’m interested in DSA, data analytics, and backend development
+- 👀 I’m interested in DSA, data analytics, and web development
 - 🌱 I’m currently learning things and working on my personal projects.
 - 💞️ I’m looking to collaborate on something meaningful, something impactful, something out of the box that solves real-world problems.
 - 📫 Reach me on X(https://x.com/MeDeep_13)
